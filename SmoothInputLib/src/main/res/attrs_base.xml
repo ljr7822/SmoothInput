@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="toolbarTitleColor" format="color" />
+    <attr name="toolbarMenuIconColor" format="color" />
+    <attr name="toolbarTitleSize" format="dimension" />
+
+    <declare-styleable name="SmoothInputLayout">
+        <attr name="silDefaultKeyboardHeight" format="dimension" />
+        <attr name="silMinKeyboardHeight" format="dimension" />
+        <attr name="silInputView" format="reference" />
+        <attr name="silInputPane" format="reference" />
+        <attr name="silAutoSaveKeyboardHeight" format="boolean" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,3 @@
+include ':SmoothInputLib'
+include ':app'
+rootProject.name = "SmoothInput"
